@@ -1,0 +1,12 @@
+(librepcb_device 995ba23a-51c7-488c-bdac-d4f7e8c2665f
+ (name "MBK Keycap")
+ (description "")
+ (keywords "")
+ (author "cdc")
+ (version "0.1")
+ (created 2021-08-12T16:32:37Z)
+ (deprecated false)
+ (category 213bd44f-f375-41d8-8fdd-0652eb893e27)
+ (component 805c1bbb-5795-4d08-85de-a5c74d8426e0)
+ (package ed30025c-4a71-4102-b012-307104a238fc)
+)
